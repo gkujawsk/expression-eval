@@ -28,7 +28,7 @@
   "author": "Don McCurdy <dm@donmccurdy.com>",
   "license": "MIT",
   "dependencies": {
-    "jsep": "^0.3.0"
+    "jsep": "https://github.com/gkujawsk/jsep.git"
   },
   "devDependencies": {
     "budo": "^11.6.3"
